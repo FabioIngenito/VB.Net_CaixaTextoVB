@@ -1,0 +1,57 @@
+  Explicação para realização de testes com a Caixa Texto (Herança da textBox)
+
+
+-> O Método:
+  
+	* Construtor: 
+	    - O construtor (ctor) define como será a inicialização da caixa mesmo em "design time";
+
+
+-> Os Eventos (sobreescritos e novos):
+
+	* OnKeyPress, OnEnter, OnLeave, OnGotFocus, InitLayout
+		- Faz algumas checagens de acordo com as propriedades setadas;
+
+	* RetornaInteiro
+		- Caso seja possível, retorna a parte inteira do número arrendondado-o;
+
+	* ENumerico
+		- Verifica se o texto passado é numérico;
+
+
+-> As propriedades (somente as alteradas):
+
+	* Bloqueado:
+		- Não - A caixa fica aberta para digitação;
+		- Sim - Não deixa digitar na caixa;
+
+	* Cor Fundo Depois:
+		- Escolha uma cor que a caixa terá depois de perder o foco;
+
+	* Cor Fundo Durante:
+		- Escolha uma cor que a caixa terá ao receber o foco;
+
+	* Cor Letra Depois:
+		- Escolha uma cor que a letra terá depois de perder o foco;
+
+	* Cor Letra Durante:
+		- Escolha uma cor que a letra terá ao receber o foco;
+
+	* Permitir Espaço:
+	    - Permite ou proíbe a digitação de espaço;
+
+	* Permitir Sinal Negativo:
+		- Permite ou proíbe a digitação de sinal negativo (só válido é para Tipo Números);
+
+	* Posição Cursor (caso a caixa esteja preenchida ao receber foco):
+		- Início   - Põe o cursor no início da caixa;
+		- Fim      - Põe o cursor no fim da caixa; 
+		- Completo - Pinta todo o texto dentro da caixa;
+
+	* Texto:
+		- Guarda um texto que pode ser usado depois;
+	
+	* Tipo:
+		- Normal - Permite a digitação de tudo - "AlfaNuméricos" e Caracteres Especiais;
+		- Número - Permite somente a digitação de Números;
+		- Letra  - Permite somente a digitação de Texto;

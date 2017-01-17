@@ -1,0 +1,14 @@
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\CaixaTextoVB.exe.config
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\CaixaTextoVB.exe
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\CaixaTextoVB.pdb
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\CaixaTextoVB.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\clsCaixatextoVB.dll
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\clsCaixatextoVB.pdb
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\bin\Debug\clsCaixatextoVB.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\prjCaixaTextoVB.vbprojResolveAssemblyReference.cache
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\CaixaTextoVB.frmTextaCaixatextoVB.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\CaixaTextoVB.Resources.resources
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\prjCaixaTextoVB.vbproj.GenerateResource.Cache
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\CaixaTextoVB.exe
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\CaixaTextoVB.xml
+H:\Whinchester\FABIO\CD\DICAS\VB.NET\waExemplHerdartextBox\CaixaTextoVB\obj\Debug\CaixaTextoVB.pdb
